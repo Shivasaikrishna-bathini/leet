@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0739-daily-temperatures) |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shivasaikrishna-bathini/leet/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0032-longest-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
