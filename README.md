@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0039-combination-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0739-daily-temperatures) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0036-valid-sudoku) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
