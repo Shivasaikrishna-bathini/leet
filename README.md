@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0739-daily-temperatures) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0739-daily-temperatures) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shivasaikrishna-bathini/leet/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0040-combination-sum-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
