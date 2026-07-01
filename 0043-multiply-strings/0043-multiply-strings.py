@@ -7,19 +7,14 @@ class Solution:
         res = [0] * (m + n)
 
         for i in range(m - 1, -1, -1):
+            a = ord(num1[i]) - 48
             for j in range(n - 1, -1, -1):
-                mul = (ord(num1[i]) - ord('0')) * (ord(num2[j]) - ord('0'))
+                s = a * (ord(num2[j]) - 48) + res[i + j + 1]
+                res[i + j + 1] = s % 10
+                res[i + j] += s // 10
 
-                p1 = i + j
-                p2 = i + j + 1
-
-                total = mul + res[p2]
-                res[p2] = total % 10
-                res[p1] += total // 10
-
-        # Skip leading zeros
         i = 0
-        while i < len(res) and res[i] == 0:
+        while res[i] == 0:
             i += 1
 
-        return ''.join(map(str, res[i:]))
+        return ''.join(str(x) for x in res[i:])
