@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0043-multiply-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shivasaikrishna-bathini/leet/tree/master/1441-build-an-array-with-stack-operations) |
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0043-multiply-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
