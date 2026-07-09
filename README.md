@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0047-permutations-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0739-daily-temperatures) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0047-permutations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0044-wildcard-matching) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Shivasaikrishna-bathini/leet/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
